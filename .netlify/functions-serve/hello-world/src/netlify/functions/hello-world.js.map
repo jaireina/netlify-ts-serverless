@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../Users/jaireina/Documents/courses/egghead-serverless-ts/netlify/functions/hello-world.ts"],
+  "sourceRoot": "/var/folders/qs/3hbbm4jn6sx_3wft8rdwkw_rz4f1df/T/tmp-56649-5fZNPNgWeCYs",
+  "sourcesContent": ["import { Handler } from \"@netlify/functions\";\n\nexport const handler: Handler = async () => {\n  return {\n    statusCode: \"200\",\n    body: \"Hello world\",\n  };\n};\n"],
+  "mappings": ";;;;;;;;;AAAA;AAAA;AAAA;AAEO,IAAM,UAAmB,YAAY;AAC1C,SAAO;AAAA,IACL,YAAY;AAAA,IACZ,MAAM;AAAA;AAAA;",
+  "names": []
+}
